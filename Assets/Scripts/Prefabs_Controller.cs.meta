@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ccb1d16043cd8e1449b1920f2413fc36
+timeCreated: 1502806974
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myKinetic_Barriers_Prefab: {fileID: 1115024264826294, guid: 8d09dc5eb638ef741a2a1647e33e36ab,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
